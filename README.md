@@ -1,6 +1,6 @@
 # TaskBoard JS App + RESTful API
 
-The JS app "Task Board" holds a board of tasks. Tasks have state, which is displayed as columns (boards): Open, In Progress, Done. The app supports the following operations:
+The JS app "Task Board" holds a board of tasks (in Trello style). Tasks have state, which is displayed as columns (boards): Open, In Progress, Done. The app supports the following operations:
  - Home page (view tasks count + menu): `/`
  - View the boards with tasks: `/boards`
  - View the tasks by given board: `/board/:board`
