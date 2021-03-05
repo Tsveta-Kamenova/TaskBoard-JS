@@ -6,7 +6,7 @@ The JS app "Task Board" holds a board of tasks (in Trello style). Each task cons
  - Search tasks form: `/tasks/search`
  - Search tasks by keyword: `/tasks/search/:keyword`
  - View task details (by id): `/tasks/view/:id`
- - Add new task (title + decription): `/tasks/create`
+ - Add new task (title + description): `/tasks/create`
  - Edit task / move to board: `/tasks/edit/:id`
 
 ## Implementation Details
